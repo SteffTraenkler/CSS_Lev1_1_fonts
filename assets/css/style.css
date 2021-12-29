@@ -1,0 +1,33 @@
+h2{
+    color: white;
+    background-color: rgb(54, 52, 52);
+    font-size: 48px;
+    font-family: Arial;
+    text-align: center;
+}
+
+p{
+    color: #333;
+    font-size: 20px;
+}
+
+
+h3{
+    font-size: 20px;
+    color: #777;
+    text-decoration: overline;
+}
+
+h4{
+    font-size: 20px;
+    color: #777;
+    text-decoration: line-through;
+    text-align: center;
+}
+
+h5{
+    font-size: 20px;
+    color: #777;
+    text-decoration: underline;
+    text-align: right;
+}
